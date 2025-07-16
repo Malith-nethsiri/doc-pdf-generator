@@ -1,6 +1,6 @@
 // ⚙️ Replace these with your actual IDs
-const TEMPLATE_ID = '1XPqMwcLANgqtdPXOc6Wh-HJEADGma8vHa9FbaCar61g';
-const OUTPUT_FOLDER_ID = '1e7jAsyaKgvGJ3-Eqi4vGCXrkr8uqYwKs';
+const TEMPLATE_ID = 'ID_OF_THE_DOCS_TEMPLATE';
+const OUTPUT_FOLDER_ID = 'ID_OF_THE_FOLDER_OF_GOOGLE_DRIVE';
 
 function onOpen() {
   SpreadsheetApp.getUi()
